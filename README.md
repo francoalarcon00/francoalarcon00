@@ -5,7 +5,7 @@
 
 - 🔭 I’m also really interested in **Data Science, Machine Learning and Deep Learning**
 
-- 🌱 I’m currently learning **Python's Libraries**
+- 🌱 I’m currently learning **Supervised ML Algorithms**
 
 - 📫 How to reach me **franco3.fa@gmail.com**
 
