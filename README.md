@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Franco Alarcón</h1>
-<h3 align="center">An Electronic Engineering student</h3>
+<h3 align="center">An Electronic Engineering and Data Science student</h3>
 
 <p align="left"> <a href="https://twitter.com/fraanalarcon_n" target="blank"><img src="https://img.shields.io/twitter/follow/fraanalarcon_n?logo=twitter&style=for-the-badge" alt="fraanalarcon_n" /></a> </p>
 
