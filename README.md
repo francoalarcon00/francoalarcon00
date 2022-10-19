@@ -1,5 +1,7 @@
+<img align="center" src="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif" alt="franalarcon_n" width="1000" height="400"/>
 <h1 align="center">Hi 👋, I'm Franco Alarcón</h1>
 <h3 align="center">An Electronic Engineering and Data Science student</h3>
+
 
 <br>
 
@@ -21,7 +23,3 @@
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://numpy.org/numpy-tutorials/_static/numpylogo.svg" alt="numpy" width="70" height="60"/> </a>
 <a href="https://matplotlib.org/stable/index.html#" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/stable/_static/logo2.svg" alt="matplotlib" width="70" height="60"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="60" height="60"/></a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francoalarcon00&show_icons=true&locale=en&layout=compact" alt="francoalarcon00" /></p>
-
-
