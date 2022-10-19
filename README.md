@@ -7,7 +7,7 @@
 
 - 🔭 I’m also really interested in **Data Science, Machine Learning and Deep Learning**
 
-- 🌱 I’m currently learning **Unsupervised learning**
+- 🌱 I’m currently learning **Web Scraping**
 
 - 📫 How to reach me **franco3.fa@gmail.com**
 
