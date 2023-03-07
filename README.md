@@ -24,7 +24,7 @@
 <a href="https://matplotlib.org/stable/index.html#" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/stable/_static/logo2.svg" alt="matplotlib" width="70" height="60"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="60" height="60"/></a>
 <a href="[https://matplotlib.org/stable/index.html#](https://plotly.com/python/)" target="_blank" rel="noreferrer"><img src="https://www.loginworks.com/wp-content/uploads/2018/06/plotly_logo.png" alt="plotly" width="55" height="50"/> </a>
-<a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://global.discourse-cdn.com/business7/uploads/streamlit/original/2X/8/8cb5b6c0e1fe4e4ebfd30b769204c0d30c332fec.png" alt="streamlit" width="115" height="40"/> </a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://global.discourse-cdn.com/business7/uploads/streamlit/original/2X/8/8cb5b6c0e1fe4e4ebfd30b769204c0d30c332fec.png" alt="streamlit" width="105" height="40"/> </a>
 </p>
 
 
