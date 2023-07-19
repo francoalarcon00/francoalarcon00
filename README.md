@@ -7,13 +7,14 @@
 
 - 🔭 I’m also really interested in **Data Science, Machine Learning and Deep Learning**
 
-- 🌱 I’m currently learning **Apache Spark**
+- 🌱 I’m currently learning **PyTorch**
 
 - 📫 How to reach me **franco3.fa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/fraanalarcon_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fraanalarcon_n" height="30" width="40" /></a>
+<a href="https://twitter.com/fraanalarcon_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fraanalarcon_n" height="30" width
+="40" /></a>
 <a href="https://linkedin.com/in/franco-alarcon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franco-alarcon" height="30" width="40" /></a>
 <a href="https://instagram.com/franalarcon_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="franalarcon_n" height="30" width="40" /></a>
 </p>
