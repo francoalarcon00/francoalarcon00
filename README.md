@@ -7,7 +7,7 @@
 
 - 🔭 I’m also really interested in **Data**
 
-- 🌱 I’m currently learning **Data Governance**
+- 🌱 I’m currently learning **Data Quality**
 
 - 📫 How to reach me **franco3.fa@gmail.com**
 
@@ -31,7 +31,8 @@ h3>
 <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="_blank" rel
 ="noreferrer"><img src="https://www.svgrepo.com/download/303229/microsoft-sql-server-logo.svg" alt="sql server" width="60" height="60"/></a>
 <a href="[https://matplotlib.org/stable/index.html#](https://plotly.com/python/)" target="_blank" rel="noreferrer"><img src="https://www.loginworks.com/wp-content/uploads/2018/06/plotly_logo.png" alt="plotly" width="55" height="50"/> </a>
-<a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://global.discourse-cdn.com/business7/uploads/streamlit/original/2X/8/8cb5b6c0e1fe4e4ebfd30b769204c0d30c332fec.png" alt="streamlit" width="105" height="40"/> </a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://global.discourse-cdn.com/business7/uploads/streamlit/original/2X/8/8cb5b6c0e1fe4e4ebfd30b769204c0d30c332fec.png" alt="streamlit" width="105"
+ height="40"/> </a>
 <a href="https://azure.microsoft.com/es-es/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/OIP.RBEEEh9FaW1dsFVobvP28wHaHa?pid=ImgDet&rs=1" alt="streamlit" width="40" height="40"/> </a>
 <a href="https://powerbi.microsoft.com/es-es/" target="_blank" rel="noreferrer"><img src="https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png" alt="streamlit" width="40" height="40"/> </a>
 </p>
