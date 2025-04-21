@@ -1,6 +1,6 @@
 <img align="center" src="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif" alt="franalarcon_n" width="1000" height="300"/>
 <h1 align="center">Hi 👋, I'm Franco Alarcón</h1>
-<h3 align="center">An Electronic Engineering and Data student</h3>
+<h3 align="center">A System Engineering and Data student</h3>
 
 
 <br>
